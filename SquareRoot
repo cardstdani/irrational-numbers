@@ -1,3 +1,4 @@
 from decimal import *
 getcontext().prec = 100000 + 1
-print(Decimal(2).sqrt())
+number = 2
+print(Decimal(number).sqrt())
