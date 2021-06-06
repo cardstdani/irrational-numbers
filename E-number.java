@@ -4,7 +4,7 @@ import java.math.*;
 
 import javax.tools.Tool;
 
-public class Irracionales {
+public class Irrationals {
 
 	public static void main(String args[]) {
 		BigDecimal eNumber = new BigDecimal("0"), precision = new BigDecimal("1500");
